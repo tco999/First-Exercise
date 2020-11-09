@@ -10,9 +10,14 @@
 _Ini juga italic_  
 **Ini bold**  
 __Ini juga bold__  
-_Ini **kombinasi** guys_    
+_Ini **kombinasi** guys_  
 
 - ini bullet list 1
 - ini bullet list 1
   - ini sublist 1
+  
+1. ini list no 1
+1. ini list no 1
+2. ini list no 2
+2. ini list no 2
 
