@@ -21,5 +21,4 @@ _Ini **kombinasi** guys_
   2. ini list no 2
   2. ini list no 2
 
-[ini link google]
-(https://www.google.com/)
+[ini link google] (https://www.google.com/)
