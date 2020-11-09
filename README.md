@@ -18,6 +18,6 @@ _Ini **kombinasi** guys_
   
 1. ini list no 1
 1. ini list no 1
-2. ini list no 2
-2. ini list no 2
+  2. ini list no 2
+  2. ini list no 2
 
